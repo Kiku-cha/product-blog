@@ -6,6 +6,28 @@ HTML5 / SCSS / CSS / JavaScript / jQuery
 画像：[pixabay](https://pixabay.com/ja/)<br>
 アイコン：[ICOOON MONO](https://icooon-mono.com/)<br>
 
+<pre>ディレクトリ<br>
+product-blog
+┝ about(説明)
+| └ index.html
+|
+┝ article(記事一覧・詳細)
+| ┝ index.html
+| └ detail
+|   └ index.html
+|
+┝ assets
+| ┝ css
+| ┝ fonts
+| ┝ images
+| └ js
+|
+┝ inc
+| ┝ footer.html
+| └ side.html
+|
+└ index.html</pre>
+
 ----
 
 PHP以外の方法でファイルのインクルード方法を探していたら、jQueryで可能とのことだったので、footerとサイドメニューの表示はそのように対応しました。
