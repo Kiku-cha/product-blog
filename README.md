@@ -1,5 +1,5 @@
 # 個人制作 ブログサイト
-HTML5 / SCSS / CSS / JavaScript / jQuery
+HTML5 / SCSS / CSS / JavaScript / jQuery<br>
 レスポンシブ対応済みです。<br>
 ※元々PHPで作成していましたが、HTMLに変更したものをアップしています。<br><br>
 テンプレート：[Percolator](https://github.com/TsubasaHiga/Percolator)<br>
