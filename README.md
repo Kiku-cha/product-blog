@@ -1,10 +1,10 @@
 # 個人制作 ブログサイト
 HTML5 / SCSS / CSS / JavaScript / jQuery
 レスポンシブ対応済みです。
-※元々PHPで作成していましたが、HTMLに変更したものをアップしています。<br>
-テンプレート：[Percolator](https://github.com/TsubasaHiga/Percolator)
-画像：[pixabay](https://pixabay.com/ja/)
-アイコン：[ICOOON MONO](https://icooon-mono.com/)
+※元々PHPで作成していましたが、HTMLに変更したものをアップしています。<br><br>
+テンプレート：[Percolator](https://github.com/TsubasaHiga/Percolator)<br>
+画像：[pixabay](https://pixabay.com/ja/)<br>
+アイコン：[ICOOON MONO](https://icooon-mono.com/)<br>
 
 ----
 
